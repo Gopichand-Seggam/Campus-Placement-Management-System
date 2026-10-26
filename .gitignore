@@ -1,0 +1,14 @@
+
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+target/
+*.log
+boot_log.txt
+maven_out.txt
+cpms-backend/uploads/
+cpms-frontend/apache-maven-*/
+cpms-frontend/maven.zip
+.vscode/
